@@ -1,6 +1,4 @@
-/*Aim:Dynamic Artical Summary Editing
-  Editor:Maitri
-  Edited date:15/11/2025*/
+
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -58,3 +56,4 @@ int main() {
     free(summary);
     return 0;
 }
+
