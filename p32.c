@@ -1,6 +1,4 @@
-/*Aim: Reverse each word in a file(Demo.txt)
-  Editor:Maitri
-  Edited Date:15/11/2025*/
+
 
 #include <stdio.h>
 #include <string.h>
@@ -37,3 +35,4 @@ int main() {
 
     return 0;
 }
+
